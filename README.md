@@ -3,6 +3,7 @@
 
 ## Live Demo 
 [Link to Live Demo](https://quilt-art.web.app/) 
+<br>
 (Be aware that the first time loading posts might take a bit longer due to server initialization process. Subsequent loads should be faster.) 
 
 ## Features
